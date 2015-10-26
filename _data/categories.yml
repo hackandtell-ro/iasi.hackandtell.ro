@@ -1,8 +1,8 @@
-- slug: design
-  name: Design
+- slug: events
+  name: Events
 
-- slug: tools
-  name: Tools
+- slug: hall-of-fame
+  name: Hall of Fame
 
-- slug: productivity
-  name: Productivity
+- slug: presentations
+  name: Presentations
