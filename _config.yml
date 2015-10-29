@@ -26,7 +26,8 @@ description: >
 
 author:
   fullname: Hack and Tell @Iași
-  github: https://github.com/hackandtell-ro/
+  github: hackandtell-ro
+  facebook: hackandtell
 
 # Build settings
 markdown: kramdown
