@@ -5,7 +5,7 @@
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/inconsolata.woff2') format('woff2');
+  src: url('/assets/fonts/inconsolata.woff2') format('woff2');
 }
 
 /* latin */
@@ -13,5 +13,5 @@
   font-family: 'Inconsolata';
   font-style: normal;
   font-weight: 700;
-  src: url('/fonts/inconsolata_bold.woff2') format('woff2');
+  src: url('/assets/fonts/inconsolata_bold.woff2') format('woff2');
 }
